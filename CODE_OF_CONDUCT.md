@@ -1,22 +1,33 @@
-This is a Code of Conduct for the Coding Train community. This is largely based on the p5.js Code of Conduct and applies to all interactions here on GitHub, Discord, YouTube comments, and YouTube chat.
+Our Pledge
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-Be mindful of your language. Any of the following behavior is unacceptable:
+Our Standards
+Examples of behavior that contributes to creating a positive environment include:
 
-Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
-Threats of violence
-Deliberate intimidation
-Sexually explicit or violent material
-Unwelcome sexual attention
-Stalking or following
-Or any other kinds of harassment
-Use your best judgement. If it will possibly make others uncomfortable, do not post it.
+Using welcoming and inclusive language
+Being respectful of differing viewpoints and experiences
+Gracefully accepting constructive criticism
+Focusing on what is best for the community
+Showing empathy towards other community members
+Examples of unacceptable behavior by participants include:
 
-Be respectful. Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care.
+The use of sexualized language or imagery and unwelcome sexual attention or advances
+Trolling, insulting/derogatory comments, and personal or political attacks
+Public or private harassment
+Publishing others' private information, such as a physical or electronic address, without explicit permission
+Other conduct which could reasonably be considered inappropriate in a professional setting
+Our Responsibilities
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-Be considerate. Think about how your contribution will affect others in the community.
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
-Be open minded. Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
+Scope
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing info@thecodingtrain.com. Please include your name and a description of the incident, and we will get back to you ASAP.
+Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at {{ email }}. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the Coding Train may take any action they deem appropriate, up to and including expulsion from all Coding Train spaces and identification of the participant as a harasser to other Coding Train members or the general public.
+Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+
+Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
